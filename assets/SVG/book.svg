@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 2000 2000" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(0 947.64)">
+  <g transform="matrix(3.299 0 0 3.299 175.89 -2585.6)" fill-rule="evenodd">
+   <circle transform="rotate(-90)" cx="-796.79" cy="254.58" r="247.5" fill="#fff" stroke="#045" stroke-linecap="round" stroke-width="5"/>
+   <rect x="151.8" y="634.12" width="205.44" height="296.97" ry="21.61" fill="#006680" stroke="#045" stroke-linecap="round" stroke-width="5"/>
+   <rect x="163.77" y="650.73" width="181.5" height="254.06" fill="#fff" stroke="#045" stroke-linecap="round" stroke-width="5"/>
+   <ellipse cx="254.52" cy="918.18" rx="3.3375" ry="3.5182" fill="#045" stroke="#045" stroke-linecap="round" stroke-width="8"/>
+   <rect x="178.64" y="714.53" width="152.29" height="5.8637" ry="2.9319" fill="#045"/>
+   <rect x="178.64" y="726.26" width="152.29" height="5.8637" ry="2.9319" fill="#045"/>
+   <rect x="178.64" y="737.99" width="152.29" height="5.8637" ry="2.9319" fill="#045"/>
+   <rect x="178.64" y="749.71" width="152.29" height="5.8637" ry="2.9319" fill="#045"/>
+   <rect x="178.64" y="761.44" width="152.29" height="5.8637" ry="2.9319" fill="#045"/>
+   <rect x="178.64" y="773.17" width="152.29" height="5.8637" ry="2.9319" fill="#045"/>
+   <rect x="178.64" y="784.9" width="105.85" height="5.8637" ry="2.9319" fill="#045"/>
+   <rect x="178.64" y="796.62" width="152.29" height="5.8637" ry="2.9319" fill="#045"/>
+   <rect x="178.64" y="808.35" width="152.29" height="5.8637" ry="2.9319" fill="#045"/>
+   <rect x="178.64" y="820.08" width="152.29" height="5.8637" ry="2.9319" fill="#045"/>
+   <rect x="178.64" y="831.81" width="152.29" height="5.8637" ry="2.9319" fill="#045"/>
+   <rect x="178.64" y="843.53" width="152.29" height="5.8637" ry="2.9319" fill="#045"/>
+   <rect x="178.64" y="855.26" width="71.287" height="5.8637" ry="2.9319" fill="#045"/>
+   <rect x="178.64" y="677" width="152.29" height="5.8637" ry="2.9319" fill="#045"/>
+   <rect x="178.64" y="688.73" width="152.29" height="5.8637" ry="2.9319" fill="#045"/>
+   <rect x="178.64" y="700.46" width="76.687" height="5.8637" ry="2.9319" fill="#045"/>
+   <rect x="178.64" y="864.64" width="152.29" height="5.8637" ry="2.9319" fill="#045"/>
+   <rect x="178.64" y="876.37" width="126.37" height="5.8637" ry="2.9319" fill="#045"/>
+  </g>
+ </g>
+</svg>

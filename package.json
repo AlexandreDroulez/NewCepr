@@ -3,13 +3,55 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "cypress:open": "cypress open",
+    "dev": "next",
     "build": "next build",
     "start": "next start"
   },
   "dependencies": {
+    "@types/next": "^9.0.0",
+    "@types/react": "^16.9.56",
+    "@types/styled-components": "^5.1.4",
+    "@zeit/next-typescript": "^1.1.1",
+    "bootstrap": "^4.5.3",
     "next": "10.0.0",
+    "next-images": "^1.6.2",
+    "next-react-svg": "^1.1.2",
     "react": "17.0.1",
-    "react-dom": "17.0.1"
+    "react-bootstrap": "^1.4.0",
+    "react-burger-menu": "^2.9.0",
+    "react-dom": "17.0.1",
+    "react-elastic-carousel": "^0.9.3",
+    "react-paralax": "^1.0.0",
+    "react-parallax": "^3.1.2",
+    "react-scroll-parallax": "^2.3.5",
+    "react-slick": "^0.27.12",
+    "react-spring": "^8.0.27",
+    "styled-components": "^5.2.1",
+    "styled-jsx": "^3.3.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.7",
+    "@storybook/addon-actions": "^5.3.14",
+    "@storybook/addon-links": "^5.3.14",
+    "@storybook/addons": "^5.3.14",
+    "@storybook/react": "^5.3.14",
+    "@testing-library/cypress": "^7.0.1",
+    "babel-loader": "^8.0.6",
+    "babel-plugin-styled-components": "^1.11.1",
+    "cypress": "^5.6.0",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-config-prettier": "^6.10.0",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-prettier": "^3.1.2",
+    "eslint-plugin-react": "^7.19.0",
+    "eslint-plugin-react-hooks": "^2.5.0",
+    "prettier": "1.19.1",
+    "styled-components": "^5.2.1",
+    "typescript": "^4.0.5"
+  },
+  "resolutions": {
+    "styled-components": "^5"
   }
 }
