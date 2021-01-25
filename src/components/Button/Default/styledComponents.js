@@ -13,6 +13,7 @@ export const DefaultButton = styled.button`
   padding: 0.5rem;
   margin: ${props => props.margin};
   transition: 0.5s;
+
   ${deviceMedia.tablet`
     margin: 0.5rem
   `}
